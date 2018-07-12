@@ -1,6 +1,6 @@
 # Actividad 2 de Intro a Javascript y jQuery
 
-Para la siguiente actividad clona este repositorio y trabaja en cada uno de los archivos respectivamente.
+Me gusta mucho Star Wars, así que fui monotemático :D
 
 
 ## Ejercicios a desarrollar
