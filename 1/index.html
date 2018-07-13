@@ -30,18 +30,26 @@ Tip: Investigar el evento window.onload
 
 
 		  <script>
+
 		  $(function() {
-		    alert("Partimos cargando el DOM ;)");
+		    alert("Cargando el DOM ;)");
 		  });
 		  function load() {
-		    alert("Cargamos todas las fotos de nuestro señor Darth Vader :D");
+		    alert("Cargamos todas las fotos de nuestro bello señor Darth Vader :D");
 		  };
 		  window.onload = load;
 		  // THIS work the same too.
 		  // $(window).on("load", function load() {
 		  //   alert("images are loaded");
 		  // });
+
 		  </script>
+
+		// $( "img.userIcon" ).load(function() {
+  		// if ( $( this ).height() > 100) {
+    	// $( this ).addClass( "bigImg" );
+  		// }
+		// });
 
 
 	</body>
