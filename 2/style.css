@@ -19,7 +19,7 @@
   object-position: center top;
 }
 
-.sat {
+.gris {
   -webkit-filter: grayscale(100%);
   -moz-filter:    grayscale(100%);
   -ms-filter:     grayscale(100%);
